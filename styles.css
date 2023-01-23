@@ -120,6 +120,7 @@ li{
   }
   ul{
     padding: 0px;
+      text-align:center;
   }
   li {
     font-size: 16px;
